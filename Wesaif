@@ -1,0 +1,4 @@
+#include<iosteam>
+namespace std;
+int main
+cout<<" hello world\n "
